@@ -1,0 +1,1 @@
+In this, We understand different sorting algorithms abd the way they work.
